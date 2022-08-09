@@ -1,0 +1,5 @@
+insert into Price (vehicleId, currency, price)values(1,'usd',999)
+insert into Price (vehicleId, currency, price)values(2,'usd',1999)
+insert into Price (vehicleId, currency, price)values(3,'usd',2999)
+insert into Price (vehicleId, currency, price)values(4,'usd',3999)
+insert into Price (vehicleId, currency, price)values(5,'usd',4999)

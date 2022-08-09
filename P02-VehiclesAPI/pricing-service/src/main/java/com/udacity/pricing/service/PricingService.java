@@ -12,6 +12,7 @@ import java.util.stream.LongStream;
 /**
  * Implements the pricing service to get prices for each vehicle.
  */
+@Deprecated(since = "Converted the price api converted to a microservice and using spring-data-rest.")
 public class PricingService {
 
     /**
